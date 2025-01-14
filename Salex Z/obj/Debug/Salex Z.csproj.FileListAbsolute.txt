@@ -1,0 +1,50 @@
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Salex Z.exe.config
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Salex Z.exe
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Salex Z.pdb
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.AssemblyReference.cache
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.SuggestedBindingRedirects.cache
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\MainWindow.g.cs
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\App.g.cs
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z_MarkupCompile.cache
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z_MarkupCompile.lref
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\MainWindow.baml
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.g.resources
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex_Z.Properties.Resources.resources
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.GenerateResource.cache
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.CoreCompileInputs.cache
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.exe
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.pdb
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.CopyComplete
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\KrnlAPI.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\WeAreDevs_API.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Newtonsoft.Json.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\ControlzEx.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\ControlzEx.pdb
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\ControlzEx.xml
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\biswa\source\repos\Salex Z\Salex Z\bin\Debug\EasyExploits.dll
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Salex Z.exe.config
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Salex Z.exe
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Salex Z.pdb
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\ControlzEx.dll
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\ControlzEx.pdb
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\ControlzEx.xml
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.AssemblyReference.cache
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\MainWindow.g.cs
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\App.g.cs
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z_MarkupCompile.cache
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z_MarkupCompile.lref
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\MainWindow.baml
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.g.resources
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex_Z.Properties.Resources.resources
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.GenerateResource.cache
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.CoreCompileInputs.cache
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.csproj.Up2Date
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.exe
+C:\Users\Gebruiker\Desktop\Salex Z\Salex Z\obj\Debug\Salex Z.pdb
